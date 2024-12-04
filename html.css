@@ -1,0 +1,48 @@
+
+body{
+    background-color: rgba(0, 0, 0, 0.116);
+}
+
+
+
+
+
+.rehman{
+    width: 100%;
+
+}
+.sec-one{
+    display: flex;
+    justify-content: center;
+}
+.web{
+    border-radius: 50px;
+}
+
+.hello{
+     display: flex;
+    justify-content: center;
+    
+}
+
+.my-job{
+    display: flex;
+    justify-content: center;
+}
+.skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding-right: 7rem;
+    margin-top: 3rem;
+}
+
+.container{
+    margin-top: 5rem;
+    margin-left: 7rem;
+
+}
+.book{
+    border: 10%;
+}
